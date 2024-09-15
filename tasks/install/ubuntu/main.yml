@@ -1,0 +1,7 @@
+- name: "Install the 'w3m-img' application package"
+  ansible.builtin.package:
+    name: w3m-img
+    state: present
+  become: true
+  become_user: root
+

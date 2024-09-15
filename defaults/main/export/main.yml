@@ -1,0 +1,6 @@
+# command to execute to start w3m
+w3m_main_command: "w3m"
+
+# specify this selection for ranger preview_images_method
+w3m_ranger_image_preview_selection: "w3m"
+
